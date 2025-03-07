@@ -16,14 +16,14 @@ Trippo is an AI-powered travel assistant chatbot designed to provide intelligent
 ---------------------
 ### 1.0 Project Structure
 
-'''
+```
 trippo/
 │── intents.json        # Defines chatbot intents (greetings, questions, etc.)
 │── model.py            # Trains and saves the NLP model (TensorFlow/Keras)
 │── utils.py            # Handles NLP response predictions
 │── trippo_bot.py       # Discord bot integration
 │── chatbot_model.h5    # Saved trained model (generated after training)
-''' 
+```
 
 Setup & Installation
 
