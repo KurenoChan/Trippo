@@ -1,4 +1,4 @@
-Trippo - AI Travel Assistant Chatbot
+*Trippo - AI Travel Assistant Chatbot*
 
 Trippo is an AI-powered travel assistant chatbot designed to provide intelligent responses using NLP. This project integrates machine learning with Discord to create a conversational bot.
 
