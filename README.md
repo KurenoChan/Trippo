@@ -4,8 +4,8 @@ Trippo is an AI-powered travel assistant chatbot designed to provide intelligent
 
 ## Table of Contents
 
-1.0 [Project Structure](#1.0-project-structure)\n
-2.0 Setup & Installation
+1.0 [Project Structure](#1.0-project-structure)<br/>
+2.0 [Setup & Installation](#2.0-setup-installatiob)<br/>
     2.1 Activate Virtual Environment
     2.2 Install Dependencies
     2.3 Train the Model
@@ -25,7 +25,7 @@ trippo/
 │── chatbot_model.h5    # Saved trained model (generated after training)
 ```
 
-Setup & Installation
+### 2.0 Setup & Installation
 
 1. Activate Virtual Environment
 .venv\Scripts\Activate
