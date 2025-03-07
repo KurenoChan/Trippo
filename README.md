@@ -4,7 +4,7 @@ Trippo is an AI-powered travel assistant chatbot designed to provide intelligent
 
 ## Table of Contents
 
-1.0 Project Structure 
+1.0 [Project Structure](#project-structure)
 2.0 Setup & Installation
     2.1 Activate Virtual Environment
     2.2 Install Dependencies
