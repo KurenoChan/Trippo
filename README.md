@@ -4,14 +4,14 @@ Trippo is an AI-powered travel assistant chatbot designed to provide intelligent
 
 ## Table of Contents
 
-    1.0 [Project Structure](#1.0-project-structure)<br/>
-    2.0 [Setup & Installation](#2.0-setup-installatiob)<br/>
-        2.1 Activate Virtual Environment
-        2.2 Install Dependencies
-        2.3 Train the Model
-        2.4 Start the Discord Bot
-3.0 How It Works
-4.0 Example Chatbot Demo
+1.0 [Project Structure](#1.0-project-structure)<br/>
+2.0 [Setup & Installation](#2.0-setup-installatiob)<br/>
+    2.1 [Activate Virtual Environment](#2.1-activate-virtual-environment)<br/>
+    2.2 [Install Dependencies](#2.2-install-dependencies)<br/>
+    2.3 [Train the Model](#2.3-train-the-model)<br/>
+    2.4 [Start the Discord Bot](#2.4-start-the-discord-bot)<br/>
+3.0 [How It Works](#3.0-how-it-works)<br/>
+4.0 [Example Chatbot Demo](#4.0-example-chatbot-demo)
 
 ---------------------
 ### 1.0 Project Structure
