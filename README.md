@@ -2,27 +2,29 @@
 
 Trippo is an AI-powered travel assistant chatbot designed to provide intelligent responses using NLP. This project integrates machine learning with Discord to create a conversational bot.
 
-Project Structure
+## Table of Contents
 
+1.0 Project Structure 
+2.0 Setup & Installation
+    2.1 Activate Virtual Environment
+    2.2 Install Dependencies
+    2.3 Train the Model
+    2.4 Start the Discord Bot
+3.0 How It Works
+4.0 Example Chatbot Demo
 
-Table of Contents
+---------------------
+### 1.0 Project Structure
 
-Project Structure
-Setup & Installation
-Activate Virtual Environment
-Install Dependencies
-Train the Model
-Start the Discord Bot
-How It Works
-Example Chatbot Demo
-Project Structure
-
+'''
 trippo/
 │── intents.json        # Defines chatbot intents (greetings, questions, etc.)
 │── model.py            # Trains and saves the NLP model (TensorFlow/Keras)
 │── utils.py            # Handles NLP response predictions
 │── trippo_bot.py       # Discord bot integration
 │── chatbot_model.h5    # Saved trained model (generated after training)
+''' 
+
 Setup & Installation
 
 1. Activate Virtual Environment
