@@ -60,4 +60,6 @@ After training is complete, start the chatbot:
 - Calls `predict_response()` from `utils.py` to generate a response.
 Example Chatbot Demo
 
+------------
+## 4.0 Example Chatbot Demo
 > Check out this [sample chatbot implementation](https://www.youtube.com/watch?v=9KZwRBg4-P0) for reference.
