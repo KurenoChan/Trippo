@@ -11,7 +11,7 @@ Trippo is an AI-powered travel assistant chatbot designed to provide intelligent
     &emsp;&emsp;2.3 [Train the Model](https://github.com/KurenoChan/Trippo/blob/main/README.md#23-train-the-model)<br/>
     &emsp;&emsp;2.4 [Start the Discord Bot](https://github.com/KurenoChan/Trippo/blob/main/README.md#24-start-the-discord-bot)<br/>
 3.0 [How It Works](https://github.com/KurenoChan/Trippo/blob/main/README.md#30-how-it-works)<br/>
-4.0 [Example Chatbot Demo](#4.0-example-chatbot-demo)
+4.0 [Example Chatbot Demo](https://github.com/KurenoChan/Trippo/blob/main/README.md#40-example-chatbot-demo)
 
 ---------------------
 ## 1.0 Project Structure
