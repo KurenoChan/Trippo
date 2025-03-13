@@ -5,12 +5,12 @@ Trippo is an AI-powered travel assistant chatbot designed to provide intelligent
 ## Table of Contents
 
 1.0 [Project Structure](https://github.com/KurenoChan/Trippo/blob/main/README.md#10-project-structure)<br/>
-2.0 [Setup & Installation](#2.0-setup-installatiob)<br/>
-    &emsp;&emsp;2.1 [Activate Virtual Environment](#2.1-activate-virtual-environment)<br/>
-    &emsp;&emsp;2.2 [Install Dependencies](#2.2-install-dependencies)<br/>
-    &emsp;&emsp;2.3 [Train the Model](#2.3-train-the-model)<br/>
-    &emsp;&emsp;2.4 [Start the Discord Bot](#2.4-start-the-discord-bot)<br/>
-3.0 [How It Works](#3.0-how-it-works)<br/>
+2.0 [Setup & Installation](https://github.com/KurenoChan/Trippo/blob/main/README.md#20-setup--installation)<br/>
+    &emsp;&emsp;2.1 [Activate Virtual Environment](https://github.com/KurenoChan/Trippo/blob/main/README.md#21-activate-virtual-environment)<br/>
+    &emsp;&emsp;2.2 [Install Dependencies](https://github.com/KurenoChan/Trippo/blob/main/README.md#22-install-dependencies)<br/>
+    &emsp;&emsp;2.3 [Train the Model](https://github.com/KurenoChan/Trippo/blob/main/README.md#23-train-the-model)<br/>
+    &emsp;&emsp;2.4 [Start the Discord Bot](https://github.com/KurenoChan/Trippo/blob/main/README.md#24-start-the-discord-bot)<br/>
+3.0 [How It Works](https://github.com/KurenoChan/Trippo/blob/main/README.md#30-how-it-works)<br/>
 4.0 [Example Chatbot Demo](#4.0-example-chatbot-demo)
 
 ---------------------
