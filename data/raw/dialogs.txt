@@ -1,0 +1,682 @@
+GREETING Hi, how are you doing?
+GRATITUDE Thank you very much.
+GREETING How's it going?
+GRATITUDE Thanks.
+GREETING How are you doing today?
+WISH I wish you luck.
+WEATHER_COMPLAINT It's an ugly day today.
+AGREEMENT Me too.
+WEATHER_COMPLAINT It doesn't look very nice outside today.
+AGREEMENT That's exactly how I feel.
+WISH I wish it was a nicer day today.
+PREFERENCE I would rather deal with the winter than the summer.
+WEATHER_POSITIVE It's such a nice day.
+AGREEMENT Yeah, me too.
+WEATHER_POSITIVE Isn't it a nice day?
+AGREEMENT Yeah, so do I.
+WEATHER_POSITIVE Don't you think it's nice out?
+WISH I would love for it to rain today.
+PLAN I really want to go to the beach this weekend.
+AGREEMENT Yeah, that would make things a lot easier.
+PLAN I would like to take a trip to the beach this weekend.
+COMMENTARY True. Predictable weather would make life easier.
+PLAN It would be nice to go to the beach sometime this weekend.
+AGREEMENT That would make it easier for us to make plans.
+REQUEST Hello, may I speak to Alice please?
+FAREWELL See you then. Goodbye.
+REQUEST Hi, how are you. Is Alice there?
+FAREWELL Talk to you later.
+REQUEST Is Alice available?
+REQUEST Call me tomorrow then.
+QUESTION Have you seen the new girl in school?
+ANSWER Yes, I have.
+QUESTION There's a new girl in school, have you seen her yet?
+ANSWER I believe so.
+QUESTION Have you met the new girl?
+QUESTION Have you seen her?
+QUESTION Why weren't you at school yesterday?
+GRATITUDE Thank you.
+QUESTION What reason do you have for missing school?
+GRATITUDE Thanks a lot.
+QUESTION Why didn't you go to school yesterday?
+WISH I hope you feel better.
+NEWS Did you hear the good news?
+RESPONSE Yes. Good for you.
+NEWS Have you heard my good news?
+RESPONSE Yes, I do.
+NEWS I haven't told you what happened yet, have I?
+REACTION For real?
+COMPLIMENT You look really nice today.
+PLAN I think I'm going to go buy myself a pair.
+COMPLIMENT I absolutely love what you're wearing today.
+PLAN I think I might go and find me my own pair of chucks.
+COMPLIMENT I think that you look very cute today.
+FACT They only cost me about forty dollars.
+QUESTION Tell me, what do you enjoy doing in your spare time?
+ENCOURAGEMENT I'm sure you have a talent. It's just hidden.
+QUESTION What kinds of things do you like to do?
+ENCOURAGEMENT You have a talent. You just don't know what it is yet.
+QUESTION Are there any hobbies you do?
+WISH Talent is a great thing, I wish I had one.
+QUESTION What's your favorite movie?
+AGREEMENT Sure, let's go.
+QUESTION Which movie is your favorite to watch?
+AGREEMENT Of course.
+QUESTION Out of every movie that you've seen, which one is your favorite?
+INVITE I got the movie when it came out on DVD, do you want to come over?
+QUESTION What type of music do you like to listen to?
+AGREEMENT Yeah, I think so too.
+QUESTION What kind of music do you enjoy listening to?
+AGREEMENT Thanks, I feel the same way.
+QUESTION What is your favorite kind of music?
+COMMENTARY That is a perfect reason to like a certain kind of music.
+QUESTION Did you go to the basketball game on Friday?
+PROMISE I'll make sure and make it to the next one.
+QUESTION Were you able to attend Friday night's basketball game?
+PROMISE The next game, I will definitely be there.
+QUESTION I was meaning to ask you if you saw the basketball game on Friday.
+COMMENTARY It really was. You should've gone.
+QUESTION What are you doing this weekend?
+AGREEMENT Okay, sounds good.
+QUESTION Do you know what you're going to do this weekend?
+DECLINE All right. Another time then.
+QUESTION You have any ideas as to what you want to do this weekend?
+DECLINE No, thanks. Maybe another time.
+QUESTION Did you go to school today?
+RESPONSE Well, thank you. I hope to see you at school tomorrow.
+QUESTION Have you attended school today?
+RESPONSE Thanks. See you at school tomorrow if you feel better.
+QUESTION Have you gone to school today?
+OFFER When you miss a day of school, I'll be happy to give you the English assignments.
+NEWS Did you hear the news?
+GRATITUDE Thanks for telling me.
+NEWS Have you heard what happened?
+GRATITUDE Thanks for letting me know.
+NEWS Have you heard the news?
+STATEMENT I just wanted to let you know what happened.
+PLAN No, I think I'm going to go to the movies.
+QUESTION Did you make it to school today?
+PLAN No, I want to go to the movies instead.
+QUESTION Did you even bother to go to school today?
+QUESTION Okay, so are you going to school tomorrow?
+GRATITUDE Thanks for coming to see me today.
+AGREEMENT I am too.
+GRATITUDE I'm really glad that you came to see me.
+AGREEMENT So am I.
+GRATITUDE I'm really happy that you came to visit me.
+GRATITUDE Whatever the reason may be, I'm glad you visited me.
+NEWS Hey, did you hear about Jessica's party this weekend?
+HOPE Well, hopefully she'll give me my invite later on today.
+QUESTION Have you heard about Jessica's party on Saturday?
+HOPE I really want to go, so I hope that she gives me my invite soon.
+QUESTION Has anyone told you about Jessica's party coming up?
+RESPONSE I have no idea, she hasn't given out many though.
+GREETING Hey, what's up?
+QUESTION What's going on with you?
+AGREEMENT No doubt.
+QUESTION What's going on?
+QUESTION Am I going to see you there?
+APOLOGY Yeah, sorry.
+GREETING What's up?
+APOLOGY Sorry about that.
+GREETING What's happening?
+WISH I wish you would go, but that's okay.
+AGREEMENT Sounds like a plan.
+GREETING Hey, what's good with you?
+FAREWELL All right. I'll see you next time.
+FAREWELL I'll look for you at my next party.
+FAREWELL It was nice talking to you.
+RESPONSE Fine.
+FAREWELL I've enjoyed conversing with you.
+RESPONSE Okay.
+FAREWELL I'll talk to you later.
+FAREWELL I am very sorry, but I must go.
+FAREWELL Well, it was nice talking to you.
+FAREWELL Bye.
+FAREWELL I enjoyed talking to you.
+FAREWELL Goodbye.
+FAREWELL I had fun talking to you.
+FAREWELL All right, see you.
+QUESTION Where do you live?
+FACT It has about 3 million people.
+QUESTION Do you have a car?
+FACT My mechanic changes the oil twice a year.
+QUESTION Do you have a girlfriend?
+SUGGESTION Maybe we should learn some good jokes.
+QUESTION Where are you going?
+FACT She says they're good watchdogs.
+REQUEST Can I borrow $5?
+CONDITION As long as you pay them back.
+SUGGESTION Let's go to the beach.
+SUGGESTION maybe we should get going.
+QUESTION are you married?
+STATEMENT she fell in love with my best friend.
+FEELING i'm bored.
+SUGGESTION it's on right now. let's watch it together.
+PREFERENCE i like living here.
+PROMISE i'm not ever going to leave.
+NEED we need a new mattress.
+AGREEMENT okay. let's get a new mattress.
+COMPLAINT my laptop is so slow.
+WARNING you might hit someone in the head.
+QUESTION what's for dinner?
+SUGGESTION no, i mean a salad instead of a pizza.
+NEED we need to save money.
+HUMOR okay. here's seven pennies.
+OBSERVATION the ocean is so big.
+HOPE i hope so. i love to eat fish.
+FEELING i'm upset with my mom.
+SUPPORT i hope your mom broke up with him.
+QUESTION do animals talk to each other?
+HUMOR we're funny-looking because we wear clothes.
+OBLIGATION i have to clean the house.
+COMPLAINT i don't think so. you'll just give me more work.
+CRITICISM you're watching too much tv.
+COMMAND will you do something? leave me alone.
+QUESTION did you write a letter to grandma?
+QUESTION when is grandma going to learn about e-mail?
+QUESTION why are you yawning?
+HUMOR zzz.
+STATEMENT it's sunday.
+BELIEF he'll forgive me.
+QUESTION did you feed the cat?
+REASSURANCE of course not! he's family.
+COMPLAINT i hate shaving.
+HUMOR hmm. here's an idea. put cream on your face and have the cat lick it off.
+POLITE excuse me.
+AGREEMENT i agree 100 percent.
+REQUEST mom, i want a puppy.
+REJECTION oh, no you don't. puppies don't eat vegetables.
+EXCITEMENT look at all these kittens!
+DECISION i'll call him blacky.
+STATEMENT my parents go to church every sunday.
+SUGGESTION let's go to church with your parents on sunday.
+LOSS my husband died.
+QUESTION what will you do when the battery dies?
+OBSERVATION today is friday the thirteenth.
+CONSEQUENCE he learned his lesson. he's home today.
+QUESTION do you really love me?
+AGREEMENT okay, okay! i'll make a reservation right now.
+STATEMENT my parents are divorced.
+FOLLOW-UP yes, but she left him a year later.
+COMPLAINT my grandma's apartment smells funny.
+AGREEMENT yes, an old smell.
+COMPLAINT the price of stamps goes up and up.
+SUGGESTION maybe we shouldn't complain.
+PROBLEM a button came off my shirt.
+SOLUTION now all you have to do is sew it on.
+NEED i have to go to the bathroom.
+RESPONSE that's what i thought you said.
+QUESTION did you do the laundry?
+CONFIRMATION yes, and i put the pillowcases on the pillows.
+QUESTION do you listen to the radio?
+OPINION because tax cuts will save them money.
+REQUEST mom, i'm hungry.
+REJECTION no, thank you. all you want to eat are hot dogs and candy bars.
+QUESTION what is there to eat?
+AGREEMENT yes. and a pickle, if we have any.
+COMMAND it's time for your bath, young lady.
+QUESTION when can i wear perfume?
+PROBLEM something's wrong with my computer.
+COMPLIMENT you're smart.
+ACTION i called hp about my computer.
+JOKE if my hard drive crashes, i'll just call you.
+QUESTION what's your email address?
+RESPONSE oh, i get it. my email address is bluedog123@yahoo.com.
+INTENTION i'm going to take a nap.
+WISH have a nice nap.
+STATEMENT that was a nice funeral.
+REASSURANCE you have lots of friends. they will be there, too!
+SURPRISE yikes! what was that noise?
+ANNOUNCEMENT i'm going into the bathroom to blow my nose. i'll be right back.
+STATEMENT i have lots of friends.
+APPRECIATION that's very nice of you.
+COMMAND don't you ever cheat on me.
+PROMISE honey, please. you're the only woman for me, forever. i swear it.
+DISLIKE i hate to go outside.
+SUGGESTION no. the best thing to do is just stay home.
+REQUEST will you look at this form?
+INSTRUCTION always print clearly, and fill in the bubbles completely.
+SUGGESTION let's go to the animal shelter.
+CURIOSITY i wonder what he'll name it.
+QUESTION what's the weather like?
+ADVICE you'd better take an umbrella.
+SURPRISE i can't believe how hot it is.
+EXCUSE he's busy. he said next week.
+EXPECTATION i'll be glad when winter comes.
+SUGGESTION let me help you make one this year.
+ACTION i'm going to the bank.
+MISUNDERSTANDING oh. what good is that? i thought it gave you free money.
+QUESTION did you put the blue bin out on the street?
+AGREEMENT okay, i'll take it out front right now.
+QUESTION are you ready?
+COMPLAINT oh, yes. i get six korean channels but nothing in english!
+OBSERVATION people are funny.
+SYMPATHY poor guy.
+ANNOUNCEMENT the police need our help finding a robber.
+CRITICISM then they also shouldn't tell us if the robber is male or female, because that is sexist.
+ADVICE don't wipe your nose on your sleeve.
+JOKE how do you know? were you his mommy, too?
+WORRY i'm worried.
+AGREEMENT no wonder you're worried.
+CONFUSION i don't get art.
+QUESTION where are they? maybe they are worth millions.
+DOUBT what's the point?
+ADVICE just be patient. fun doesn't come along every five minutes.
+OPINION beer is a powerful drug.
+REJECTION i don't think i want to go to your heaven.
+PROBLEM my pants have a hole in the front pocket.
+INFORMATION it is. but after about ten washings, the glue washes off.
+QUESTION do you know any good jokes?
+OPINION oh, really? i think most jokes are about men!
+COMPLIMENT you're very lucky.
+TRANSLATION ahora! that means right now.
+QUESTION do you know what today is?
+PROMISE from now on i'll spend only 20 minutes in the shower.
+OPINION poetry sucks.
+OPINION yes, but songs have music. without music, songs would suck, too.
+QUESTION how smart are you?
+JOKE because if you're super-smart, no one understands what you're saying.
+REGRET i missed the tv news last night. what was on?
+NEWS of course. she's going to hire a nanny for her eight infants.
+QUESTION what are you going to do about your death?
+HUMOR we figure our kids can visit us whenever they go to the beach.
+REMINDER did you wipe your feet?
+PROMISE next time i will be more careful.
+QUESTION what are you getting for your mom?
+REASSURANCE it's okay. she knows that i love her.
+OPINION i don't like our flag.
+HUMOR you can't go to war carrying a flag with a woman on it!
+STATEMENT i had a busy morning.
+OBSERVATION i'll bet you were hungry!
+COMPLAINT i don't have long distance service with my home phone.
+REACTION yikes. i think i'll keep my long distance service.
+QUESTION do you go to college?
+REASSURANCE yes. it's not expensive!
+PROBLEM i lost my new pen.
+SOLUTION only a dollar? don't even look for it.
+FACT gravity is very important.
+ENTHUSIASM that would be fun!
+COMPLAINT i can't read my book.
+JOKE i'll read it very loud, in case your hearing is getting bad, too.
+QUESTION what do you need for school?
+RESPONSE yes, that's all i need for now.
+PREFERENCE i like this magazine.
+AGREEMENT so did mine!
+PROBLEM my pen is out of ink.
+ENCOURAGEMENT take your time.
+QUESTION have you done your homework?
+REBELLION i hate the rules! i can't wait till i grow up.
+ANTICIPATION i can't wait until i graduate.
+AGREEMENT that's not a bad idea.
+QUESTION what is your major?
+PLAN maybe i'll teach middle school.
+COMPLAINT parking at school is impossible.
+LUCK you have to be lucky to find a parking space.
+OBSERVATION this is a huge library.
+CONCERN not even a church is safe from thieves.
+QUESTION how good is your math?
+REASSURANCE they're not going to think that! they'll be glad to help you.
+QUESTION do you believe in god?
+RESPONSE not yet. i won't need to do that until i graduate from high school.
+NEWS the cops finally found the husband.
+COMMENT he didn't get around to turning himself in, either.
+DISLIKE i don't like riding the bus.
+ADVICE don't worry about what people think.
+AGREEMENT you're right. bad guys might rob you.
+STATEMENT we had a problem at school.
+HOPE that's terrible. i hope they catch the person.
+TRUTH life isn't fair.
+INSTRUCTION you need to walk faster.
+WARNING you're driving too fast.
+SYMPATHY your friend was unlucky.
+REMINDER remember to put air in your tires.
+ADMISSION and i don't have either.
+ASSUMPTION i thought drunks caused most accidents.
+SUGGESTION let's go for a ride.
+PREPARATION let me get my camera.
+DIRECTION it's the next exit. hold on!
+QUESTION where's the car?
+SUGGESTION maybe they towed it away.
+OBSERVATION look at this traffic.
+PREDICTION it'll get worse before it gets better.
+QUESTION did you see that car?
+REALITY the driver will just honk back at us.
+COMPLAINT my car is dirty.
+BENEFIT and you save $10.
+OBSERVATION it sure is windy today.
+HUMOR the wind will get you, or the birds will get you.
+QUESTION when are we going to stop?
+HUNGER i'm very hungry. i'll order for you, and then i'll eat yours.
+COMPLAINT this is such a long light.
+AGREEMENT good idea. it will be so much quicker.
+NEED i need a cheap car.
+ADVICE you're right about that. keep saving your money.
+GREETING good afternoon, officer.
+GENEROUS well, you've got one now. here. have a nice day.
+DISBELIEF $140. i can't believe it.
+SUPPORT you should fight that ticket. i'll be your witness.
+IRONY they were in a crosswalk near school at 3 a.m.
+JUSTICE i hope they find them and put them in jail for life.
+QUESTION what happened to your car?
+EXPENSE yes, except this dent will cost about $150.
+MEDIA did you see "titanic"?
+SYMPATHY me too. it's so sad.
+SUGGESTION let's play cards.
+CONFESSION oh. sorry. okay, i don't have four tens.
+CONFIDENCE i'm a good card player.
+SUSPICION he knows you can't read his mind. maybe he thinks you're cheating.
+REQUEST turn the radio down, please.
+INDIFFERENCE if they don't like it, they can move.
+HOPE i hope i win the lotto.
+ADVICE save your money for school.
+QUESTION what's on tv?
+UNCERTAINTY who knows? they said they'll fix it before next season.
+REQUEST can i try your coffee?
+COMPARISON sort of like beer.
+SUGGESTION let's take a walk.
+WARNING yes, but it gets colder as the sun goes down.
+SURPRISE look at the car chase on tv!
+HOPE i hope the police catch him.
+CRITICISM tv news is so stupid.
+SUGGESTION they should have kid reporters.
+LOVE i love my computer.
+IMMERSION yes, i felt like i was actually there.
+PREFERENCE the beatles are the best.
+QUOTE "...there will be an answer, let it be!"
+SUGGESTION let's go to a movie.
+HOPE well, i hope it has a happy ending.
+QUESTION what's your favorite thing to do?
+OBSERVATION yes, they love to sniff each other when they meet.
+NICKNAME they call him father dollar bill.
+SURPRISE people stood in line just to get one dollar?!
+PREFERENCE old movies are the best.
+TRUTH yes, but they never make much money.
+QUESTION do you get pbs on tv?
+OPINION who wants to donate? public tv should be free.
+FAVORITE i love to watch "judge judy."
+HOPE i hope judge judy made the seller take the phone back.
+PRAISE that woman is a very good singer.
+SUPPORT yes. i would buy all of her cds.
+INFO all the tv stations are going to go digital.
+ADVICE rabbit ears aren't strong enough. buy a digital antenna.
+MATCHMAKING i've got a date for you.
+INSECURITY the problem is she has no problems—she's too good for me!
+COMPLIMENT i think you're very pretty.
+REFUSAL i'm not going to eat any snails!
+COMPLIMENT you have pretty eyes.
+FANTASY i would love to have blue cat-eyes.
+LOVE i love you.
+WISH and be happy together.
+CRUSH i'm in love with that girl.
+PLAN and then she'll know that you like her.
+REQUEST give me a hug.
+PUNISHMENT oh, really? then spend tonight looking at the sofa.
+SUGGESTION would you like to go on a blind date?
+DECISION then you don't date her again.
+PLAN i have a date tomorrow night.
+PATIENCE sometimes a slow line can be a good thing.
+QUESTION did you have a date friday night?
+DISAPPOINTMENT no. he was nice, but there was no chemistry.
+STORY i had the worst date the other night.
+JOKE i guess you can't go back to that restaurant.
+DISLIKE i don't like that man.
+CAUTION that's what you say now. wait till you're 50.
+QUESTION does your girlfriend ever make you angry?
+LOVE i told her i wouldn't trade her for any other woman in the world.
+SENSE some people have good noses.
+SUGGESTION i told her she should apply for a job at customs.
+SUGGESTION let's go out to eat.
+EAGERNESS let's go now. i'm hungry!
+COMPLAINT i can't believe how long this line is.
+EXCUSE me. they just called my number.
+APPRECIATION lunch was delicious.
+EXCITEMENT i can't wait.
+ACTION i'm calling the waiter.
+EXPERIENCE i used to cook in a restaurant!
+SUGGESTION let's leave.
+APATHY who cares? let's get out of here.
+PRAISE this hot bread is delicious.
+INSULT that's terrible. i would never go to your restaurant.
+QUESTION is this a clean restaurant?
+FOCUS me, too. let's forget about germs and focus on food.
+QUESTION have you seen our waiter?
+DECISION we'll never go there again.
+QUESTION is this table okay?
+INFO that one. a group of eight just sat down at it.
+DOUBT i don't believe the art world.
+JOKE without the food stains, it would probably be worth more.
+REQUEST can we go to the baseball game?
+JOKE no. i'll just use my cap to catch a foul ball.
+OPINION golf is a silly game.
+CRITICISM i think they're nuts.
+SUGGESTION do you want to go fishing?
+PLAN we'll have fresh fish for dinner!
+PREFERENCE baseball is fun.
+ADVICE but practice makes perfect.
+SUGGESTION let's go jogging.
+EXCUSE i'll wait until i wear this pair out.
+PRAISE tiger is the greatest golfer in the world.
+HUMOR if his wife doesn't mind, you shouldn't mind.
+QUESTION did you watch that golf tournament?
+JOKE i bet it says he was born on mars.
+QUESTION who's the greatest baseball player?
+LEGEND there will never be another babe.
+NEWS did you hear what happened at the baseball game?
+SYMPATHY that's terrible. can't people just have fun at a baseball game?
+WISH i want to go to the ball game.
+HOPE maybe we can catch a home run ball.
+DIFFICULTY golf is so hard.
+GIVEUP forget it. golf sounds more like work than fun.
+NEWS did you hear about the ball player?
+TRUTH no. everyone always figures that they won't get caught.
+QUESTION why is there so much crime?
+AGREEMENT yes, it would.
+PRAISE this is a great neighborhood.
+HOPE maybe you can, if someone moves out.
+DISASTER the house burned down.
+REALITY it happens all the time.
+INFO they say he has started fifteen big fires.
+JUSTICE that would teach him a good lesson.
+SAFETY put your seatbelt on.
+JOKE i'm ready for an accident.
+QUESTION what are you doing?
+ACTION i'll get the stepladder.
+WARNING did you see that puddle of water on the floor?
+SOLUTION it doesn't matter. here he comes now with the mop.
+QUESTION what happens when the fire alarm rings?
+PLAN then we just wait outside for a fireman to tell us to go back in.
+EXCUSE i have to go back upstairs.
+URGENCY no, you didn't. let's go! the only thing running is the clock!
+NEWS the city is buying guns.
+OPINION everyone in america should have a gun.
+OBSERVATION you're yawning.
+CRITICISM maybe the mayor is just talking about his own neighborhood.
+OPINION people who live in california are crazy.
+FACT excuse me. hurricane andrew destroyed 30,000 homes!
+STORY i went to hawaii on vacation.
+LUCKY people who live in hawaii are lucky.
+PREFERENCE i like this hotel.
+PLAN i like that. let's stay three nights.
+STATEMENT i'm not sleeping here tonight.
+SUGGESTION from now on, let's bring our own sheets.
+QUESTION what time does your plane leave?
+STATEMENT there's at least one huge accident every day.
+STATEMENT i need to fly to new york.
+STATEMENT cheaper prices won't do you any good if there are no seats.
+OPINION i hate flying.
+QUESTION doesn't everybody?
+STATEMENT some guy rowed across the atlantic ocean.
+STATEMENT some people do it just to do it.
+DESIRE i want to go on a cruise ship.
+SUGGESTION well, you should go online and try to find a good deal.
+OPINION i hate to fly.
+STATEMENT well, be glad you're not a pilot.
+STATEMENT spring break starts tomorrow.
+REASSURANCE don't worry. only one person has ever fallen off a mule.
+OPINION that hotel was terrible.
+STATEMENT the travel agent gave us a 50-percent discount!
+STATEMENT i have to hang up. i'm so sleepy.
+WARNING someday the bomb is going to be for real.
+STATEMENT my dad went to washington, d.c.
+STATEMENT he said all the money came from private donations.
+STATEMENT that was a great trip to washington, d.c.
+APPRECIATION well, you all deserve it. you helped save our country.
+NEED i need a job.
+WISH good luck!
+SUGGESTION before you go to that interview, check yourself.
+REACTION yikes! thank you.
+OBSERVATION life is hard.
+COMPLAINT we have to work for 30 years!
+STATEMENT i'm sleepy.
+ACKNOWLEDGEMENT of course it was. we work together!
+COMPLAINT i don't like my job.
+AGREEMENT that's a good idea.
+AGREEMENT okay. that sounds like a fair price.
+QUESTION what would you do if you lost your job?
+STATEMENT maybe we'd get laid off there, too.
+QUESTION do your students ever talk about their jobs?
+COMPLIMENT you're a lucky man to have a job you love.
+RELIEF boy, i'm glad that job is finished.
+WONDERING i wonder if there is any job that you don't repeat over and over.
+COMPLAINT i think i have the worst boss in the world.
+ADVICE you shouldn't choose money over happiness.
+QUESTION what are we going to do?
+CONTRADICTION but you hate cigarettes and you hate smoking!
+ANNOUNCEMENT a new hotel is looking for workers.
+REASSURANCE of course. what are friends for?
+REGRET i think i did something real stupid.
+CONSOLATION oh, you'll have something—you'll have a lesson you'll never forget!
+STATEMENT i was going to be a doctor.
+OPINION yes, the smart doctors are those tv news doctors—no hospitals, no patients.
+DESIRE i want to be a mail carrier when i grow up.
+ANALOGY dogs are like people—not all of them are friendly.
+DESIRE i want to move to new york.
+WARNING all you will get is sore knuckles.
+OPINION i love salads.
+AGREEMENT me too. french dressing is so delicious! who cares about calories?
+OPINION i love cheese.
+JOKE yes. a cow is man's best friend.
+STATEMENT i used to work in a deli.
+COMMENT no more free cheese for you, huh?
+STATEMENT i'm on a new diet.
+REQUEST can i have all those cans of tomato sauce you bought for your pasta?
+COMPLAINT my girlfriend's mom got mad at me at the dinner table.
+BLAME it's your girlfriend's fault. she should have warned you.
+STATEMENT i eat the same thing every day.
+REASSURANCE well, there's nothing wrong with that.
+COMPLAINT there's something wrong with my orange.
+JOKE who knows? maybe soon we'll have pink bananas.
+OPINION i love peanuts.
+STATEMENT he has a very strict diet.
+COMPLAINT i'm gaining weight.
+SUGGESTION then you can start losing weight, if there isn't another sale.
+STATEMENT i'm stuffed.
+REQUEST well, don't stand up, please.
+ACCUSATION i saw what you did.
+PROMISE i promise i'll never drink out of the carton again.
+COMPLIMENT i like that shirt.
+SUGGESTION you'd better try them on first.
+STATEMENT i bought you a pair of pants.
+COMPLIMENT you are so smart!
+QUESTION what do we need to buy?
+OPINION i didn't want to pay for the holes.
+NEED i need some pants.
+SUGGESTION try a google search online.
+QUESTION what are those wipes for?
+JOKE well, you better save a wipe for the dirty dollar bills you're going to pay with.
+QUESTION did you go to the 99 cents store?
+AGREEMENT neither do i, but they're doing something right.
+NEED i need a new computer.
+STATEMENT and that's not going to change anytime soon.
+COMPLAINT i got ripped off.
+LESSON well, i guess that's a $20 lesson for you.
+QUESTION where's the pencil sharpener?
+SUGGESTION yes. that way it will stay where i put it.
+STATEMENT i'm trying to stretch my dollars.
+SUGGESTION if the coffee still tastes okay, that's a good idea.
+OPINION i really like this house.
+DECISION you're right. let's buy it now. we can worry later.
+REALIZATION we can't afford this house.
+STATEMENT of course. we can't live without gas or peanut butter.
+COMPLIMENT that is a beautiful house.
+PREFERENCE that's perfect. the less traffic, the better.
+COMPLAINT i hate looking for an apartment.
+EXCITEMENT where's the checkbook? i'm ready to rent it without even seeing it.
+QUESTION did you call the manager?
+WISH yes, it would be nice if he'd give us a new carpet.
+QUESTION do you like this house?
+REALIZATION no, we have to find something closer to your job.
+OBSERVATION boy, it's chilly outside, isn't it?
+SOLUTION all we have to do is flip a switch.
+OPINION this is a nice neighborhood.
+SUSPICION they're probably getting something under the table.
+STATEMENT that was a huge fire in santa barbara.
+ANSWER none.
+STATEMENT bears are invading our neighborhoods.
+ADVICE you don't solve a problem by shooting it.
+QUESTION who did you vote for?
+PREDICTION i think everyone will.
+STATEMENT the election is next week.
+STATEMENT maybe i'll vote for someone else, too.
+SURPRISE i can't believe he won the election.
+WARNING they'll care when they see their taxes go up.
+STATEMENT well, we have a new president.
+OPTIMISM they will. you know america always leads the way.
+OBSERVATION people say that everybody loves obama.
+PREFERENCE i prefer my quiet little life to all the power in the world.
+QUESTION did you read this article?
+PREDICTION well, he'll never get reelected once this news gets out.
+QUESTION who did you vote for for president?
+PREDICTION sooner or later, voters will wake up.
+DOUBT i don't know why i bother to vote.
+SUGGESTION maybe you should run for office.
+OPINION that election for u.s. senator stunk.
+EXPLANATION of course they say that—their man won!
+STATEMENT i see that former president bush is at a conference.
+JOKE no, he's too busy writing a book about how hard it was to be president.
+QUESTION did you get your official sample ballot?
+QUESTION so when are we going to stop giving them more?
+QUESTION have you decided how you are going to vote?
+CYNICISM of course they lie—that's what politicians do!
+COMPLAINT i have a stomachache.
+HOPE maybe it will go away in a little while.
+QUESTION what's this stain?
+SUGGESTION next time i'll soak it immediately.
+COMPLAINT my fingers hurt.
+HUMOR he might say you have bone cancer.
+QUESTION what did the doctor say?
+METAPHOR like a day at the beach, with my toes in the sand.
+STATEMENT i cut my finger.
+STATEMENT it might take a day or two to heal.
+QUESTION do you smell that?
+STATEMENT cigarettes stink.
+QUESTION do you have a cold?
+REFUSAL i don't care. i don't like to put drops in my nose.
+REQUEST would you put suntan lotion on my back, please?
+ADVICE so why are you arguing with me? don't lie in the sun too long!
+CONFESSION i can't quit smoking.
+ENCOURAGEMENT you have to believe in yourself.
+COMPLAINT my back is killing me.
+SUGGESTION maybe a back rub would help.
+STATEMENT my brother smokes three packs a day.
+JOKE maybe i should start smoking.
+COMPLAINT i hate brushing my teeth.
+JOKE i can't wait till all my teeth fall out.
+REQUEST let's stop for a while. i need a break and some water.
+AGREEMENT okay, but let's hike in town. at least there are cats and dogs to see.
+COMPLAINT oh no, another pimple on my face.
+JOKE well, on the bright side, they're fun to pop.
+QUESTION do you believe everything you hear?
+STATEMENT the government says to wash our hands frequently, and we'll all be okay.
+COMMAND don't pick your nose.
+CLARIFICATION it wasn't that kind of emergency.
+COMPLAINT our tv remote is filthy.
+SUGGESTION maybe we should put it in a plastic bag to keep it clean.
+COMPLAINT my ear is killing me.
+ADVICE or you can stay off planes.
+QUESTION did you see the woman with the new face?
+APPRECIATION god bless modern medicine.
+COMPLAINT there's something wrong with my right hand.
+SUGGESTION start typing instead. that way your left hand will do half the work.
+SUGGESTION I want go to Kuala Lumpur

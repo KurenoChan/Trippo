@@ -1,0 +1,778 @@
+[
+    {
+        "tag": "GRATITUDE",
+        "sentence": "thank much"
+    },
+    {
+        "tag": "GREETING",
+        "sentence": "going"
+    },
+    {
+        "tag": "GRATITUDE",
+        "sentence": "thanks"
+    },
+    {
+        "tag": "GREETING",
+        "sentence": "today"
+    },
+    {
+        "tag": "WISH",
+        "sentence": "wish lucky"
+    },
+    {
+        "tag": "WEATHER_COMPLAINT",
+        "sentence": "ugly day today"
+    },
+    {
+        "tag": "WEATHER_COMPLAINT",
+        "sentence": "look nice outside today"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "exactly feel"
+    },
+    {
+        "tag": "WISH",
+        "sentence": "wish nicer day today"
+    },
+    {
+        "tag": "PREFERENCE",
+        "sentence": "would rather deal winter summer"
+    },
+    {
+        "tag": "WEATHER_POSITIVE",
+        "sentence": "nice day"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "yeah ,"
+    },
+    {
+        "tag": "WEATHER_POSITIVE",
+        "sentence": "think nice"
+    },
+    {
+        "tag": "WISH",
+        "sentence": "would love rain today"
+    },
+    {
+        "tag": "PLAN",
+        "sentence": "really want go beach weekend"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "yeah would make thing lot easier"
+    },
+    {
+        "tag": "PLAN",
+        "sentence": "would like take trip beach weekend"
+    },
+    {
+        "tag": "COMMENTARY",
+        "sentence": "true predictable weather would make life easier"
+    },
+    {
+        "tag": "PLAN",
+        "sentence": "would nice go beach sometime weekend"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "would make easier u make plan"
+    },
+    {
+        "tag": "REQUEST",
+        "sentence": "hello may speak alice please"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "see goodbye"
+    },
+    {
+        "tag": "REQUEST",
+        "sentence": "alice"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "talk later"
+    },
+    {
+        "tag": "REQUEST",
+        "sentence": "alice available"
+    },
+    {
+        "tag": "REQUEST",
+        "sentence": "call tomorrow"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "seen new girl school"
+    },
+    {
+        "tag": "ANSWER",
+        "sentence": "yes"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "new girl school seen yet"
+    },
+    {
+        "tag": "ANSWER",
+        "sentence": "believe"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "met new girl"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "seen"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "school yesterday"
+    },
+    {
+        "tag": "GRATITUDE",
+        "sentence": "thank"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "reason missing school"
+    },
+    {
+        "tag": "GRATITUDE",
+        "sentence": "thanks lot"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "go school yesterday"
+    },
+    {
+        "tag": "WISH",
+        "sentence": "hope feel better"
+    },
+    {
+        "tag": "NEWS",
+        "sentence": "hear good news"
+    },
+    {
+        "tag": "RESPONSE",
+        "sentence": "yes . good"
+    },
+    {
+        "tag": "NEWS",
+        "sentence": "heard good news"
+    },
+    {
+        "tag": "RESPONSE",
+        "sentence": "yes ,"
+    },
+    {
+        "tag": "NEWS",
+        "sentence": "told happened yet"
+    },
+    {
+        "tag": "REACTION",
+        "sentence": "real"
+    },
+    {
+        "tag": "COMPLIMENT",
+        "sentence": "look really nice today"
+    },
+    {
+        "tag": "PLAN",
+        "sentence": "think going go buy pair"
+    },
+    {
+        "tag": "COMPLIMENT",
+        "sentence": "absolutely love wearing today"
+    },
+    {
+        "tag": "PLAN",
+        "sentence": "think might go find pair chuck"
+    },
+    {
+        "tag": "COMPLIMENT",
+        "sentence": "think look cute today"
+    },
+    {
+        "tag": "FACT",
+        "sentence": "cost forty dollar"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "tell enjoy spare time"
+    },
+    {
+        "tag": "ENCOURAGEMENT",
+        "sentence": "sure talent hidden"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "kind thing like"
+    },
+    {
+        "tag": "ENCOURAGEMENT",
+        "sentence": "talent know yet"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "hobby"
+    },
+    {
+        "tag": "WISH",
+        "sentence": "talent great thing wish one"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "favorite movie"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "sure , let u got"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "movie favorite watch"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "course"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "every movie seen one favorite"
+    },
+    {
+        "tag": "INVITE",
+        "sentence": "got movie came want come"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "type music like listen"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "yeah think"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "kind music enjoy listening"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "thanks feel way"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "favorite kind music"
+    },
+    {
+        "tag": "COMMENTARY",
+        "sentence": "perfect reason like certain kind music"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "go basketball game friday"
+    },
+    {
+        "tag": "PROMISE",
+        "sentence": "make sure make next one"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "able attend friday night 's basketball game"
+    },
+    {
+        "tag": "PROMISE",
+        "sentence": "next game definitely"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "meaning ask saw basketball game friday"
+    },
+    {
+        "tag": "COMMENTARY",
+        "sentence": "really gone"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "weekend"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "okay , sound good"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "know going weekend"
+    },
+    {
+        "tag": "DECLINE",
+        "sentence": "right another time"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "idea want weekend"
+    },
+    {
+        "tag": "DECLINE",
+        "sentence": "thanks maybe another time"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "go school today"
+    },
+    {
+        "tag": "RESPONSE",
+        "sentence": "well thank hope see school tomorrow"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "attended school today"
+    },
+    {
+        "tag": "RESPONSE",
+        "sentence": "thanks see school tomorrow feel better"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "gone school today"
+    },
+    {
+        "tag": "OFFER",
+        "sentence": "miss day school happy give english assignment"
+    },
+    {
+        "tag": "NEWS",
+        "sentence": "hear news"
+    },
+    {
+        "tag": "GRATITUDE",
+        "sentence": "thanks telling"
+    },
+    {
+        "tag": "NEWS",
+        "sentence": "heard happened"
+    },
+    {
+        "tag": "GRATITUDE",
+        "sentence": "thanks letting know"
+    },
+    {
+        "tag": "NEWS",
+        "sentence": "heard news"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "wanted let know happened"
+    },
+    {
+        "tag": "PLAN",
+        "sentence": "think going go movie"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "make school today"
+    },
+    {
+        "tag": "PLAN",
+        "sentence": "want go movie instead"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "even bother go school today"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "okay going school tomorrow"
+    },
+    {
+        "tag": "GRATITUDE",
+        "sentence": "thanks coming see today"
+    },
+    {
+        "tag": "GRATITUDE",
+        "sentence": "really glad came see"
+    },
+    {
+        "tag": "GRATITUDE",
+        "sentence": "really happy came visit"
+    },
+    {
+        "tag": "GRATITUDE",
+        "sentence": "whatever reason may glad visited"
+    },
+    {
+        "tag": "NEWS",
+        "sentence": "hey hear jessica 's party weekend"
+    },
+    {
+        "tag": "HOPE",
+        "sentence": "well hopefully give invite later today"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "heard jessica 's party saturday"
+    },
+    {
+        "tag": "HOPE",
+        "sentence": "really want got hope give invite soon"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "anyone told jessica 's party coming"
+    },
+    {
+        "tag": "RESPONSE",
+        "sentence": "idea given many thought"
+    },
+    {
+        "tag": "GREETING",
+        "sentence": "hey"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "doubt"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "going see"
+    },
+    {
+        "tag": "APOLOGY",
+        "sentence": "yeah sorry"
+    },
+    {
+        "tag": "APOLOGY",
+        "sentence": "sorry"
+    },
+    {
+        "tag": "GREETING",
+        "sentence": "happening"
+    },
+    {
+        "tag": "WISH",
+        "sentence": "wish would got okay"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "sound like plan"
+    },
+    {
+        "tag": "GREETING",
+        "sentence": "hey good"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "right see next time"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "look next party"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "nice talking"
+    },
+    {
+        "tag": "RESPONSE",
+        "sentence": "fine ."
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "enjoyed conversing"
+    },
+    {
+        "tag": "RESPONSE",
+        "sentence": "okay ."
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "sorry must got"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "well nice talking"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "bye"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "enjoyed talking"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "goodbye ."
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "fun talking"
+    },
+    {
+        "tag": "FAREWELL",
+        "sentence": "right see"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "live"
+    },
+    {
+        "tag": "FACT",
+        "sentence": "3 million people"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "care"
+    },
+    {
+        "tag": "FACT",
+        "sentence": "mechanic change oil twice year"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "girlfriend"
+    },
+    {
+        "tag": "SUGGESTION",
+        "sentence": "maybe learn good joke"
+    },
+    {
+        "tag": "FACT",
+        "sentence": "say good watchdog"
+    },
+    {
+        "tag": "REQUEST",
+        "sentence": "borrow $ 5 ?"
+    },
+    {
+        "tag": "CONDITION",
+        "sentence": "long pay back"
+    },
+    {
+        "tag": "SUGGESTION",
+        "sentence": "let u go beach"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "grandma going learn email"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "sunday"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "parent go church every sunday"
+    },
+    {
+        "tag": "SUGGESTION",
+        "sentence": "let u go church parent sunday"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "battery dy"
+    },
+    {
+        "tag": "OBSERVATION",
+        "sentence": "today friday thirteenth"
+    },
+    {
+        "tag": "CONSEQUENCE",
+        "sentence": "learned lesson home today"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "wear perfume"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "weather like"
+    },
+    {
+        "tag": "EXPECTATION",
+        "sentence": "glad winter come"
+    },
+    {
+        "tag": "MISUNDERSTANDING",
+        "sentence": "oh good thought gave free money"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "maybe worth million"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "know good joke"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "know today"
+    },
+    {
+        "tag": "HUMOR",
+        "sentence": "figure kid visit u whenever go beach"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "good math"
+    },
+    {
+        "tag": "OBSERVATION",
+        "sentence": "sure windy today"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "going stop"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "good idea much quicker"
+    },
+    {
+        "tag": "GREETING",
+        "sentence": "good afternoon officer"
+    },
+    {
+        "tag": "GENEROUS",
+        "sentence": "well got one nice day"
+    },
+    {
+        "tag": "CONFIDENCE",
+        "sentence": "good card player"
+    },
+    {
+        "tag": "OBSERVATION",
+        "sentence": "yes love sniff meet"
+    },
+    {
+        "tag": "PRAISE",
+        "sentence": "woman good singer"
+    },
+    {
+        "tag": "INSECURITY",
+        "sentence": "problem good"
+    },
+    {
+        "tag": "PATIENCE",
+        "sentence": "sometimes slow line good thing"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "date friday night"
+    },
+    {
+        "tag": "SENSE",
+        "sentence": "people good nose"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "watch golf tournament"
+    },
+    {
+        "tag": "JUSTICE",
+        "sentence": "would teach good lesson"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "happens fire alarm ring"
+    },
+    {
+        "tag": "PREFERENCE",
+        "sentence": "like hotel"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "least one huge accident every day"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "cheaper price good seat"
+    },
+    {
+        "tag": "SUGGESTION",
+        "sentence": "well go online try find good deal"
+    },
+    {
+        "tag": "OPINION",
+        "sentence": "hotel terrible"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "travel agent gave u 50-percent discount"
+    },
+    {
+        "tag": "WARNING",
+        "sentence": "someday bomb going real"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "great trip washington dick"
+    },
+    {
+        "tag": "WISH",
+        "sentence": "good lucky"
+    },
+    {
+        "tag": "AGREEMENT",
+        "sentence": "good idea"
+    },
+    {
+        "tag": "ANNOUNCEMENT",
+        "sentence": "new hotel looking worker"
+    },
+    {
+        "tag": "DESIRE",
+        "sentence": "want mail carrier grow"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "eat thing every day"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "pencil sharpener"
+    },
+    {
+        "tag": "SUGGESTION",
+        "sentence": "yes way stay put"
+    },
+    {
+        "tag": "SUGGESTION",
+        "sentence": "coffee still taste okay good idea"
+    },
+    {
+        "tag": "COMPLIMENT",
+        "sentence": "beautiful house"
+    },
+    {
+        "tag": "EXCITEMENT",
+        "sentence": "checkbook ready rent without even seeing"
+    },
+    {
+        "tag": "WARNING",
+        "sentence": "care see tax go"
+    },
+    {
+        "tag": "QUESTION",
+        "sentence": "going stop giving"
+    },
+    {
+        "tag": "METAPHOR",
+        "sentence": "like day beach toe sand"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "might take day two heal"
+    },
+    {
+        "tag": "STATEMENT",
+        "sentence": "brother smoke three pack day"
+    },
+    {
+        "tag": "SUGGESTION",
+        "sentence": "want go kuala lumpur"
+    }
+]

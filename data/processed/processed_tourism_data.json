@@ -1,0 +1,3586 @@
+[
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try seafood valencia , spain .."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "switzerland swiss franc , euro ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "brazil , local currency brazilian real ( url ) .."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "miss belgian male topped fruit cream ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "go . safari serengeti . see big big . five animal ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help reserve table ate popularity restaurant ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore iceland golden circle gender waterfall ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "witness northern light tramsø , norway , winter ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "always check local weather road condition mountain hike ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "australia us australian dollar ( aud ) ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy handmade rug lantern morocco sock ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "tipping expected japan appreciated exceptional service ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "dubrovnik , croatia , offer medieval wall adriatic view ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sample pho noodle soup hand , vietnam ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "carry neck pillow comfort long flight ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "__place_0__ mean __place_1__ ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "hop-on hop-off bus great sightseeing major city ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help plan wine tour tuscany ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "discover waterfall wildlife plitvice lake national park ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join carnival celebration rio de janeiro every february ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "let someone know itinerary traveling solo ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "canada us canadian dollar ( cad ) ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "explore night market taipei snack ticket ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "thailand , avoid touching people 's considered rude ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "tetra jordan unesco world heritage site carved rock ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy tape ganglion barcelona , spain ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "download offline map travel remote area ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "__place_0__ mean __place_1__"
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "train germany reliable often puncture ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "suggest affordable shop hotel _ _ _ place_0 _ _"
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "hike torres del pain national park clean patagonia ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "visit munich oktoberfest late september early october ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "leave drink unattended busy nightlife area ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "south africa us south african rand ( zar ) ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "pick ceramic olive oil market around tuscany ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "korea , bowing common form greeting respect ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "cape town offer mountain , beach , vibrant culture ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try argentina steak chimichurri sauce ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "always check visa requirement booking flight ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "new york , subway run cover borough ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "need help booking desert tour dubai ? assist ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "go snorkeling great barrier reef australia ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "experience dial festival light india autumn ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "carry small flashlight headland evening walk rural area ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "czech republic us czech korea ( ck ) ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop pearl haiti black coral hawaii ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "russia , offering firm handshake sign respect ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore temple riverside life lang praying , lao ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sip turkish coffee sweet baklava ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use noise-cancelling headphone long flight ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "__place_0__ mean __place_1__ morning ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "water taxi common venice , italy ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let assist cruise booking excursion ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "see wildlife red dune namibia sossusvlei desert ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend edinburgh fringe festival august art comedy ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid drinking tap water country bottled ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "indonesia , currency indonesian rupiah ( idr ) ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ james jewelry ... silk garment . __place_1__"
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "france , greet kiss cheek informal setting ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "mach pitch one world famous ancient site ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try korean bibimbap , rice bowl vegetable egg ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "arrive airport least 3 hour early international flight ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "turkish : merhaba mean hello ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use local ferry system place like hong kong istanbul ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "reserve guided hike next outdoor adventure ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore rainforest costa rica spot touch slot ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "witness hold , festival color , india march ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "scan email important travel document ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "malaysia , currency malaysian ringgit ( myr ) ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "explore pakistan boutique high fashion perfume ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "argentina , dinner often served 9 10 pm ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit queenstown , new zealand , adventure sport scenery ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try lebanese mezzo human , falafel , tabbouleh ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use travel insurance protect unexpected delay illness ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "hebrew : today mean thank ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "bus south america popular way travel city ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help compare flight price across airline ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "take boat tour amazon rainforest ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate castillo day france july 14th ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "check embassy contact emergency number travel ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "uae , durham ( aed ) official currency ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "browse handmade craft market cisco , peru ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "china , business card exchanged hand ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover cliff beach lagos , portugal ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try georgia khachapuri , cheese bread boat ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "__place_0__ dowry mean __place_1__ day ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "italy , coffee culture emphasizes standing bar espresso ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join adam festival mongolia july ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid accepting unsolicited help arm ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "norway us norwegian krone ( nok ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "wear layer visiting place fluctuating weather ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help find last-minute city tour europe ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use paris metro fast , efficient city travel ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "explore craft stall otavalo market ecuador ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "climb mount promo indonesia sunrise adventure ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "calling , estonia , offer blend medieval charm tech culture ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "__place_0__ street-sided stay skyscraper __place_1__"
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "finnish : kit mean thank ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "japan , handing money card two hand polite ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend full moon party koh pagan , thailand ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "flash phone camera busy transit area ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "hungarian format ( hu ) used hungary ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "pack microfiber lightweight dry quickly ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "need help booking overnight train across europe ? got ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "__place_0__ bangkok bts __place_1__ skip traffic jam ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ embroidered line __place_1__"
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "dive blue hole belize stunning marine life ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore medias spice market marrakech ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "order device coastal fresh flavorful ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "hindi : namaste mean hello bow ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "vietnam , polite remove shoe entering home ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate midnight sun festival fairbanks , alaska ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "use official taxi stand rather hailing street ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "currency philippine philippine peso ( php ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use compression bag save space luggage ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help schedule guided museum visit london paris ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ride cable car san francisco classic experience ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop antique tile isbn flea market ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "visit mount cook national park new zealand alpine beauty ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit colorful town guitaré near modelín , colombia ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "__place_0__ authentic raven __place_1__"
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "__place_0__ page mean __place_1__ morning ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "ethiopia , eating often communal experience shared dish ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "experience margin ice festival china january ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "keep photocopy travel insurance policy ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "croatia us euro ( eur ) since 2023 ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "mark luggage unique tag ribbon ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "assist preserving ski pass apps ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ferry connect many greek island ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "hunt vintage clothes berlin weekend flea market ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "paddle vietnam ha long bay kayak ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "enjoy vineyard rolling hill stellenbosch , south africa ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "miss belgian modules-writes—mussels fry ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "russian : pozhaluysta mean please ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "turkey , tea ( çay ) often offered gesture hospitality ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join local st. patrick day parade dublin march ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "forget lock bag tsa-approved lock ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "iceland krone ( ) local currency iceland ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "choose accommodation free cancellation plan uncertain ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help arrange local cooking class stay ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "consider rail flexible train travel across multiple country ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy leather sandal craft greek island market ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "spot orangutan wild borne sepilok sanctuary ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover lush tea field sri lanka central highland ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try morocco tagline cooked traditional clay pot ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "dutch : rank je wel mean thank ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "indonesia , pointing thumb polite using finger ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate chinese new year dragon parade firework ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid carrying much cash ; use card e-wallets possible ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "__place_0__ us __place_1__ ( kes ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "download currency conversion app traveling abroad ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help reserve eco-lodge near rainforest mountain range ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "bus primary mode intercity travel south america ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "look obsidian jewelry guatemala market ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "go glacier hiking alaska once-in-a-lifetime experience ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore castle cliff scottish highland ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "eat empanadas traveling argentina ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "swedish : mean hi hello ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "brazil , firm extended handshake common greeting ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join carnival venice mask gondola ride ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "check latest travel advisory destination country ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "nepal us nepalese rupee ( npr ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "take screenshots reservation case internet issue ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "need help booking whale-watching tour alaska ? assist ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use switzerland efficient sub train scenic travel ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy handmade wool product iceland shop ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "walk unique terre trail coastal view quaint village ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit island jeu south korea beach volcano ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try thai mango sticky rice coconut milk ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "spanish : lo mean sorry ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "greece , padding mean shaking head mean yes ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "enjoy music culture south africa cape town jazz festival ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "store emergency cash multiple place , wallet ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "__place_0__ us __place_1__ ( t ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "set watch phone local time adjust quickly ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "assist pet-friendly hotel booking ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "water ferry operate island maldives ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "visit souvenir shop kyoto fan wash paper ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "take scenic drive canada 's minefield parkway ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover ancient city began , myanmar , 2,000 temple ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try traditional south african robotic yellow rice ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "danish : tak mean thanks ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "muslim country , respectful dress modestly ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join hold party nepal color joy ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "wear money belt travel busy station market ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "romania us romanian leu ( ron ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring universal adapter charging device ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let book beach bungalow island getaway ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "tram scenic easy way get around isbn ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "pick silk scare embroidered bag vietnam ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "trek colombia cocoa valley see towering wax palm ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit ancient ruin ephesus turkey ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy rich , creamy clam holder boston ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "i-i __place_0__ dinner frequency start : 9. p.m ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate low krathong lantern thailand ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid leaving valuable parked rental car ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "__place_0__ us __place_1__ ( idr ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring reusable water bottle stay hydrate hike ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "__place_0__ help schedule guided bike tour __place_1__"
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use tram explore melbourne efficiently ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop brass lamp wood carving kerala ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "take safari tanzania serengeti national park ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore fjord western norway dramatic scenery ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try warm bowl pho hand , vietnam ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "spain , local enjoy fiesta afternoon rest ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join oktoberfest munich beer , music , ovarian culture ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "cautious fake ticket vendor near tourist attraction ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "switzerland us swiss franc ( ch ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use vpn connecting public wi-fi abroad ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help reserve ski gear advance trip apps ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ride tokyo fast foreigner-friendly ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "find colorful teamwork south african craft market ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "swim iceland silva fissure two tectonic plate ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover ancient pyramid temple egypt luxo ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "__place_0__ fresh pierogi __place_1__"
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "__place_0__ morning mean __place_1__ morning ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "korea , bowing standard form respectful greeting ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "enjoy fringe festival edinburgh , scotland , every august ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "always note emergency contact traveling abroad ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "brazil us brazilian real ( url ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "check destination requires plug type , b , c adapter ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let find family-friendly lodging near theme park ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "rent scooter explore backroads bali ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop alpha wool sweater cisco , peru ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore band national park turquoise lake snowy peak ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit walled city dubrovnik , croatia ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try chicken adobe philippine ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": ". __place_0__ issue polite eating ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "new zealand , māori tradition integral local identity ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend albuquerque balloon fiesta october new mexico ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "double-drive visa requirations avoid edge ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "print download map case internet ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "assist ferry schedule began sea ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "hop-on-hop-off bus great sightseeing major city ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy jade carving silk market across myanmar ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "__place_0__ patagonia & # 39 ; __place_1__ __place_2___ stunning seeing ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "tour fairy chimney cappadocia , turkey , hot air balloon ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sample tape street bar sevilla , spain ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "hungarian : szervusz friendly greeting ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "morocco , customary offer guest mint tea ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "_ _ place_0 _ _ _ _ place_1 _ _ _ _ place_2 _ _"
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "watch pickpocket crowded transport hub ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "south korea us south korean ( krw ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use packing cube organize suitcase efficiently ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "need help preserving rail pass across scandinavia ?"
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "italy high-speed frecciarossa train excellent city-hopping ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy colorful hand-painted ceramic andalusia ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "visit lake led slovenia row island chapel ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "roam share desert comeback unique adventure ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try dumping filled cheese potato slovakia ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "china , tipping expected place ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend white night festival st. petersburg , russia ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "__place_0__ drink print water unless . issue verify safe ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "egypt us egyptian pound ( ep ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "take early flight avoid delay crowd ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "find accommodation free breakfast deal ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use riverboats navigate amazon peru brazil ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy traditional pottery oaxaca artisan village ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "trek tiger nest monastery bhutan ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "enjoy island hopping across philippine ' palatal region ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "favor grilled fish cassava zanzibar ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "german : kuten tag mean good day ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "thailand , showing sol foot considered rude ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "experience carnival trinidad parade music ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "share travel plan stranger online ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "malaysia us malaysian ringgit ( myr ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "keep copy passport important document cloud ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help schedule ziplining adventure costa rica ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use tuk-uks short ride south southeast asia ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "explore handicraft calling medieval old town ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "dive whale shark coast maldives ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit scenic valley wine riverside view ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "eat spicy follow rice west africa ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "portuguese : judo bem ? mean thing ?"
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "france , greet shopkeeper honour entering ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "take part lantern festival taiwan lunar new year ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "know local emergency vary country ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit lavender field provence , france summer ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "favor bowl last opening , malaysia ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "french : mercy beaucoup mean thank much ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "italy , common greet kiss cheek ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "experience rio carnival samba parade music ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "keep bag tipped front crowded area ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "sweden us swedish krone ( sek ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring power bank long travel day ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "__place_0__ m help . book desert . safari __place_1__"
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use contactless card london underground ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ beta print peak & # 39 ; street market ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "hike mount rinjani look breathtaking view ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore canal colorful house brand , italy ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try cheese tartiflette french apps ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "japan , removing shoe entering home customary ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend cherry blossom festival washington , d.c ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "carry copy important document , original ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "avoid service available many hotel ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "find private driver vietnam countryside tour ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "amsterdam , bike rental ideal short-distance travel ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "pick handmade leather sandal athens ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "walk plitvice lake national park croatia ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover medieval charm rule , belgium ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "miss grilled shrine isbn ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "polish : doiękuę mean thank ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "turkey , tea often offered gesture hospitality ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join margin ice festival northern china winter ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "flash valuable public , especially night market ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "chile us clean peso ( cup ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "learn basic greeting local language ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "check availability eco-lodges amazon ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use ride-sharing apps urban area safety convenience ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy locally-made incense perfume oil oman ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "snooker great barrier reef see vibrant marine life ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit sandstone city tetra , jordan ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "eat traditional area colombia ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "hindi : namaste greeting farewell ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "greece , meal social event last hour ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "miss gion mature kyoto every july ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid withdrawing large amount cash public arm ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "vietnam us vietnamese dong ( vnd ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "book popular tour week advance peak season ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help arrange whale-watching tour iceland ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "seoul , subway announcement available english ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "_ _ place_0 _ _ wooden kitchenware rural _ _ place_1 _ _ market ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "__place_0__ sossusvlei red sand dune __place_1__"
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover floating market bangkok boat ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "__place_0__ sweat , flak baklava __place_1__"
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "russian : zdravstvuyte mean hello formally ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "many south american country , lunch main meal ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "watch midnight sun festivity northern norway ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "use rcid-blocking wallet protect card ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "uae us durham ( aed ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "always carry local currency small denomination ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "assist booking overnight train india ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "hong kong , octopus card work public transport ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "explore gold spice sock dubai ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "raft zambezi river near victoria fall ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit kyoto arashiyama bamboo grove early morning ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try device freshly made lima , peru ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "italian : buongiorno mean good morning ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "germany , jaywalking strongly discouraged ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "participate hold , festival color india ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "learn emergency exit hotel arrival ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "morocco us morocco durham ( mad ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring light serve many purpose traveling ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "want help booking hot spring resort taiwan ?"
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use bus budget travel across eastern europe ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop painted easter egg czech village market ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "see coffin sea cliff iceland látrabjarg ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "cruise along making delta southern vietnam ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "feast barbecue meat south african break ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "israel , business may close sabbath friday sunset ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "take part songkran water festival thailand ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "leave electronics unattended cafés airport ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "check baggage allowance buying souvenir ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "reserve mountain hut swiss hiking route ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "try bullet train ( shinkansen ) fast travel across japan ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "purchase amber jewelry gdańsk , poland ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "camp star jordan wade rum desert ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "take scenic train ride scottish highland ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try falafel stuffed warm pit bread israel ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "bhutan , gross national happiness national priority ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "miss cannes film festival south france ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "scan important document store securely online ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit rice terrace manage , philippine , carved mountain ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "keep backup travel document secure cloud service ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy warm bowl raven osaka winter ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "japanese : arigatou gozaimasu mean thank much ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join albuquerque balloon fiesta october colorful sky ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "post real-time location social medium traveling ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "budapest , tram offer scenic route city ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help schedule vineyard tour nasa valley ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "hike new zealand abel baseman national park ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "find hand-painted ceramic debut , italy ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "thailand , showing affection public uncommon ."
+    },
+    {
+        "tag": "SPOT",
+        "sentence": "colosseum rome draw million visitor annually ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "always check weather forecast planning outdoor excursion ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore medieval old town calling , estonia ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "french : où est la gare ? mean train station ?"
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "experience castillo day celebration france july 14 ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try swiss tongue mountain lodge zermatt ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "register embassy traveling abroad long period ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "local currency argentina argentina peso ( ar ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help preserving yoga retreat bali ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "trek aide spot condom cola canyon , peru ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "take scenic bergen railway across norway ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "ethiopia , sharing food common plate show trust ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "browse handmade carpet cappadocia ."
+    },
+    {
+        "tag": "SPOT",
+        "sentence": "nigra fall must-see natural wonder us-canada border ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit great ocean road australia coastal vista ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "spanish : dónde está el baño ? mean bathroom ?"
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use hotel sale store passport extra cash ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate king day local amsterdam wearing orange ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "indulge thai green curry chang mai ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid unmarked taxi unfamiliar city ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "cambodia us cambodia rie , u dollar widely accepted ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "rent bike copenhagen explore like local ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "reserve entry love museum paris ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "paddle along fjord western norway ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "visit marrakech sock spice , shoe , textile ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "korea , using two hand pas item show respect ."
+    },
+    {
+        "tag": "SPOT",
+        "sentence": "mount fiji offer iconic view seasonal hiking trail ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "confirm covid-19 entry requirement country plan visit ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "take gondola ride canal venice ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "italian : quant costa ? mean much cost ?"
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend fringe festival edinburgh mix theater music ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "taste local cheese fresh baguette rural france ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "share hotel room number aloud reception ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "turkey , currency turkish lira ( try ) ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "metro system many asian capital clean affordable ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "want try paragliding apps ? book ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "go bird-watching wetland everglades ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ forward handover . basket zambia & # 39 ; village : market ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "spain , people often dine 9 pm ."
+    },
+    {
+        "tag": "SPOT",
+        "sentence": "taj medal unesco world heritage site aga ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "__place_0__ grotto limestone cavern __place_1__"
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "download offline translation key phrase ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sample grilled shrine beach portugal ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "__place_0__ mean __place_1__ ?"
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "miss __place_0__ season __place_1__"
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "always use arm well-lit , secure location ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "lao , currency kip ( lak ) ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "consider buying jr pas traveling around japan train ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help book guided glacier tour iceland ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "visit mount kilimanjaro base camp panoramic view ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy embroidered fabric rajasthan , india ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "muslim country , avoid eating public armada ."
+    },
+    {
+        "tag": "SPOT",
+        "sentence": "table mountain provides sweeping view cape town ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "wander ancient street jerusalem old city ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "choose shoe easy slip airport security ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try jerk chicken festival bread jamaica ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "portuguese : boa trade mean good afternoon ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "visit margin snow sculpture festival northeast china ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "use dummy wallet visiting area known pickpocketing ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "qatar currency qatar royal ( war ) ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "san francisco , bart connects city suburb ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "want help booking private chef experience tuscany ?"
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "trek dolomite scenic alpine trail ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "explore weekend flea market buenos aire ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "japan , tipping customary may refused ."
+    },
+    {
+        "tag": "SPOT",
+        "sentence": "leaning tower visa popular photo stop tourist ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "travel wine route place region france ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring extra passport photo visa application ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "miss churros dipped chocolate madrid ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "swahili : avant sana mean thank much ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "participate iceland midnight sun run june ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid using open wi-fi network financial transaction ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "__place_0__ us __place_1__ ( il ) ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ferry operate frequently greek island ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help secure ticket flamenco show sevilla ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore limestone cave along bay , vietnam ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ alpha form __place_1__ marketplace stalled ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "germany , polite valued ."
+    },
+    {
+        "tag": "SPOT",
+        "sentence": "anchor wat largest religious monument world ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "hike maria gorge island create ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "forget activate international phone plan ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "favor moussaka seaside tavern greece ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "__place_0__ __place_1__ mean hungry ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend gion mature kyoto july ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "carry backpack front crowded place ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "__place_0__ us __place_1__ ( u ) ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "train austria offer scenic journey apps ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "find ticket gondola lift switzerland ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "camp northern light lowland ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "browse second-hand book market prague ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "vietnam , elder greeted first respect ."
+    },
+    {
+        "tag": "SPOT",
+        "sentence": "great wall china wind across northern china mountain ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "cruise kerala backwater traditional houseboat ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "label luggage home hotel address ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sample beef reading rich flavorful ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "_ _ place_0 _ _ go ? mean _ _ place_1 _ _ ?"
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate day dead mexico altar manifold ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": ". found leave electronics visible wastebin expensive ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "use iceland krone ( ) traveling iceland ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "singapore mrt fast , clean , easy use ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "arrange kayaking trip mangrove thailand ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "take guided hike around mount eta simply ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop spice zanzibar stone town ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "nepal , customary remove shoe entering home ."
+    },
+    {
+        "tag": "SPOT",
+        "sentence": "blurb australia sacred aboriginal culture stunning sunset ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join colorful guelaguetza festival oaxaca , mexico ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover sunken city kekova , turkey , kayak ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy goulash fresh bread budapest ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "hike dense trail fiordland national park , new zealand ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "browse handmade mask craft venice ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use airplane mode conserve battery data abroad ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "take burning express scenic alpine view ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "poland us polish lot ( plan ) ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "south korea , leaving food plate may seen wasteful ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "_ _ place_0 _ _ den mean __place_1 _ _ day ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "share itinerary someone remote hike ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate along mask dance festival south korea ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore rock-hewn church lalibela , ethiopia ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "miss routine quebec cheese treat ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "kayak sea cave algae , portugal ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "purchase colorful textile guatemala chichicastenango market ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "_ _ _ place_0 _ _ travel alert phone departure ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "cable car iconic way see san francisco ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "currency lao lao kip ( lak ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help find wellness retreat bali ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "saudi arabia , public display affection discouraged ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "cautious border crossing follow posted rule ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend lantern-floating ceremony hawaii memorial day ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit painted monastery bucovina , romania ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "eat green curry jasmine rice thailand ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "trek crater mount natur sunrise ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ woven . basket rwanda & # 39 ; village : market ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use photo backup travel document id ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "jr pas useful long-distance train travel japan ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "argentina us argentina peso ( ar ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help schedule food tour historic neighborhood ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "egypt , tipping ( baksheesh ) expected small service ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "nepal : namaste used greeting farewell ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid using arm late night unfamiliar area ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "experience midnight concert iceland secret solstice festival ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "enjoy lava landscape lanzarote , canary island ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try swedish meatball lingonberry sauce ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "visit lavender-competed field hokkaido summer ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "pick locally-made jewelry santorini ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "pack small foldable bag extra souvenir ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "tram vienna easy way get around ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "__place_0__ us __place_1__ ( lk ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "need help booking rail journey across rookie ? assist ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "portugal , meal often start olive bread ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "hebrew : slalom mean hello peace ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "watch step cobblestone street , especially wet ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate midsummer bonfire sweden ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit tropical island langkawi malaysia ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sample fresh oyster galway , ireland ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "walk along scotland west highland way breathtaking view ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "look hand-painted nesting doll moscow ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "forget pack extra battery camera ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "bangkok canal boat great way explore ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "iceland us iceland krone ( ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "reserve jungle lodge stay amazon basin ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "kenya , greeting important often lengthy ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "accept drink stranger nightlife venue ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend fire balloon festival taunggyi , myanmar ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore historic ruin tidal guatemala ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy cheese palette meal swiss apps ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "paddle fjord western canada serene scenery ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop alpha blanket bolivia mountain town ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "register country embassy overseas trip ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use city travel card discount public transport ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "cambodia us cambodia rie ( hr ) , usd widely accepted ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help organize desert camping wade rum , jordan ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "malaysia , pointing index finger considered rude ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "iceland : talk fair mean thank much ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "carry extra cash case card network outage ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "watch changing guard london buckingham palace ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore walled city mina malta ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "taste maqluba , layered rice dish , palestine ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "hike volcanic trail réunion island ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "visit artisan market santa fe turquoise jewelry ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "save digital copy booking confirmation number ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ferry norway offer majestic view fjord ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "peru us sol ( pen ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "book canal cruise amsterdam ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "netherlands , direct appreciated rude ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "use zippered bag avoid pickpocket theft ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate flower parade netherlands spring ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover floating garden xochimilco mexico city ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sample grilled shrine isbn waterfront ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "visit mountain lake julian apps slovenia ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ embroidered cotton __place_1__"
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "schedule break itinerary avoid burnout ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use trolleybus tbilisi local experience ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "official currency georgia georgia lar ( gel ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let assist multi-city hotel package ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "bhutan , traditional dress worn government office ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "lithuania : ačiū mean thank ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid carrying card one wallet ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join torch-lit hell aa festival scotland , scotland ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore unesco town beat , albania ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy mez planter cyprus dip grilled meat ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "camp star morocco share desert ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "find volcanic ceramic score ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "keep small notebook local phrase sketching ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use grab go safe ride southeast asia ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "kazakhstan us tense ( kit ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help booking floating hotel riverboats ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "tunisia , shoe removed entering home ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "romanian : mulțuses mean thank ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "keep valuable close crowded public transit ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "experience cherry blossom festival full bloom across japan ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover ancient temple began , myanmar ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try device lima best seafood experience ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "trek torres del pain national park patagonia ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "visit dubai gold sock lettering jewelry find ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "__place_0__ universally traveled adaptor electronics ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "hop manakamana cable car nepal mountain ride ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "currency morocco morocco durham ( mad ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help book hiking lodge along inch trail ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "flash expensive item unfamiliar neighborhood ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend margin ice festival ice sculpture light ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit colorful sandstone mountain change , china ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy hot bowl pho street hand ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "spot flamingo alabama salt flat chile ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop floating market bangkok ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring rain jacket unpredictable weather tropic ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "take blue train luxury travel across south africa ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let arrange glacier trekking tour iceland ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "japan , sourcing noodle sign enjoyment ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "cautious walking alone night quiet area ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "witness ray festival cisco , peru ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore ancient city tetra carved rock ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sample samba-spaced dish indonesia ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "discover bioluminescent bay puerto rico kayak ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "explore local art gallery melbourne anyways ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "always check visa requirement booking travel ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use vaporetto ( water bus ) venice city transport ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "indonesia us rupiah ( idr ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help reserve tea plantation stay sri lanka ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "brazil , common greet cheek kiss ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "russian : spasibo mean thank ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "use luggage lock storing bag bus train ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate castillo day paris firework differ tower ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit fairy chimney cappadocia hot air balloon ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try cuban rope veja rice bean ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "hike along emerald cliff ireland sleeve league ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "find intricate silver jewelry jaipur old city ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "keep hotel contact info handy case get lost ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use subway seoul fast , efficient travel ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "hungary us format ( hu ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "schedule hot spring visit near lake auto ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "ethiopia , eating shared plate signifies community ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid hiking off-trail protected wildlife area ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "_ _ place_0 _ _ _ _ place_1 _ _ _ _ place_2 _ _ parade _ _ place_3 _ _"
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore hilltop town honda , spain ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy street ticos al pastor mexico city ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "climb sand dune sossusvlei , namibia sunrise ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "browse antique book isbn historic shop ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "download offline language pack translation apps ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ride funicular montmartre paris ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "official currency tanzania tanzania shilling ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let book jungle canopy walk costa rica ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "thailand , disrespectful touch someone head ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "__place_0__ eerie mean __place_1__ ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "keep passport hotel safe possible ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate st. patrick day parade dublin ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover historical street old quebec ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try polish pierogi stuffed cheese potato ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "walk rim crater lake oregon panoramic view ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "visit sock fez , morocco leather spice ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "always inform bank international travel avoid card block ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use motorbike taxi navigate ho chi min city quickly ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help reserve romantic train ride switzerland ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "vietnam , avoid pointing foot toward sacred object ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "italian : graze mille mean thanks lot ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "stay alert major transit hub large crowd ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "witness carnival celebration rio de janeiro ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit temple rice terrace bali , indonesia ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sample belgian wale fresh cream ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore fjord greenland via boat tour ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "check fashion outlet milan shopping district ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "get local sim card easier mobile access ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "try songthaews ( shared taxi ) northern thailand ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "nigeria us nara ( ngn ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help reserve beachfront bungalow ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "new zealand , maori culture woven daily life ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "german : bitter mean welcome please ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "walk headphone unfamiliar area ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "visit famous white night festival st. petersburg , russia ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover blue city chefchaouen morocco ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "taste ethiopian injury spicy stew ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore rice terrace manage , philippine ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ handmade rug istanbul __place_1__"
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "book museum popular site advance peak season ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "__place_0__ long-distance bus explore rural __place_1__"
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "official currency chile clean peso ( cup ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help arrange horseback tour aide ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "philippine , respect elder includes hand gesture like mano ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "keep backup copy id separate bag ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend calgary stampede rodeo fair july ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "roam cobbled street dubrovnik , croatia ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy full english breakfast baked bean egg ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "discover waterfall cave plitvice lake ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy mural glass souvenir venice ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use cloth bag instead plastic sustainable travel ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "try local minibus ( status ) nairobi local experience ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "currency czech republic czech korea ( ck ) ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "assist safari lodge reservation kenya ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "iceland , customary leave shoe entrance ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "swim outside designated zone unfamiliar beach ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "walk ancient ruin ephesus turkey ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try churros hot chocolate madrid ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend vibrant hold festival color india ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "browse pearl jewelry market haiti ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "catch shinkansen bullet train kyoto ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help find overwatch bungalow maldives ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "india , using right hand eating customary ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "cautious slippery trail rainy season ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore canopy walkway kaku national park , ghana ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "pack microfiber dry quickly save space ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore historical island zanzibar tanzania ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy grilled halloumi cheese cyprus ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate songkran water fight across thailand ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "pick mosaic ceramic istanbul market ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "__place_0__ funicular __place_1__ de __place_2__ __place_3__"
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help arrange trek mount everest base camp ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "france , polite greet honour asking question ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "always wear proper footwear hiking ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "spot lemur jungle trek madagascar ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "use google translate camera function read foreign sign ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover cliffside monastery meteor greece ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "_ _ place_0 _ _ rice fat , malaysia & # 39 ; national dish ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "witness sunrise balloon festival cappadocia ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy painted silk scare lao ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "catch ferry stockholm helsinki ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help secure hurt stay mongolia ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "denmark , punctuality highly valued ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "vietnamese : cảm ơn mean thank ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "keep passport person border crossing ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "visit fairy pool isle sky ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "label luggage email phone number ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "tour colorful colonial street cartagena ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "__place_0__ okonomiyaki __place_1__"
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join white night celebration finland ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ unique music tool __place_1__"
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ride tuk-uks street pen ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "book volcano tour guatemala ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "israel , common bargain market ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid hiking alone dense jungle area ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "camp near glowing lava lake ethiopia ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring onscreen even colder climate ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit floating reed island lake titicaca ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sip strong turkish coffee istanbul ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend sandcastle competition british columbia ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "hunt second-hand book hay-on-wye , wale ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "train taiwan puncture scenic ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help book glass goo stay finland ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "spain , lunch often largest meal day ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid keeping wallet back pocket ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "hike glacier el calafate argentina ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "hydrate often traveling high altitude ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "wander medina fez , morocco ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy spicy ichi stew seoul ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "watch fire-dancing ritual samoa ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "purchase headed handicraft kenya ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "take long-tail boat around thailand island ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "book winery tour south australia ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "poland , bringing flower visiting appreciated ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "_ _ place_0 _ _ love & quot ; mean __place_1 _ _ ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "lock bag rapper using public transportation ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "canoe mangrove forest belize ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "ghana us ghanaian ced ( gas ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "turn mobile data avoid roaming charge abroad ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover fortress city carcassonne france ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "sample fresh lobster roll maine ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join semana santa procession sevilla ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "_ _ place_0 _ _ back print __place_1 _ _"
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "hop double-decker bus london ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help plan hot air balloon safari kenya ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "iceland , hot dog popular fast food ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "_ _ place_0 _ _ gozaimasu & quot ; mean __place_1 _ _ ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "keep emergency contact written paper ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "visit volcanic highland iceland interior ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring insect repelled forested destination ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore fjord mountain western norway ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "eat modules-writes coastal belgium ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate lantern festival taiwan ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "check street vendor quite old town ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "__place_0__ e-bikes navigate hilly terrain __place_1__"
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "arrange jungle lodge stay borne ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "morocco , eat finger communal dish ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "learn emergency phrase local language ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "kayak inlet ha long bay ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "carry snack case delay long hike ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore ancient citadel aleppo ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "indulge relate along mali coast ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "participate running bull pamplona ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "browse woven textile guatemala ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ride overnight train cairo luxo ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let find gaming resort national park ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "china , common offer business card two hand ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "swedish : tack så market mean thank much ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "bring flashlight exploring remote area ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "observe wildlife wetland cantonal ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "dominican republic us dominican peso ( dop ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "take photo passport case loss ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit tea plantation ntara liga , sri lanka ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try jerk chicken beach shack jamaica ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "watch reindeer race winter festival lowland ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "find embroidered house chip , mexico ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "rent scooter explore greek island ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help plan hiking route pyrenees ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "scotland , people generally friendly welcoming ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "hebrew : today aba mean thank much ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "bring power bank exploring remote place ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "trek hidden waterfall costa rica jungle ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "check time zone difference booking transport ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit medieval city wall dubrovnik , croatia ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "try authentic ethiopian injury spicy step ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend international balloon fiesta albuquerque ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop jade jewelry canton , myanmar ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use metro card easy access tokyo ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help book wine tasting tour tuscany ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "japan , silence often appreciated public place ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "italian : dov è il band ? mean bathroom ?"
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "carry whistle added security remote hike ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "walk among ancient redwood california national park ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "always bring pen custom immigration form ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "explore ancient nabatean ruin tetra , jordan ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy device beach peru ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate dial light sweet across india ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "look leather good florence open-air market ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "take cable car table mountain cape town ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "arrange overnight desert camp morocco ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "korea , customary remove shoe indoors ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "_ _ place_0 _ _ khan mean __place_1 _ _ ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "scan passport keep digital backup ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "visit natural hot spring rotor , new zealand ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring lightweight used cover , towel , pillow ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "wander grand bazaar istanbul ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join cherry blossom festivity washington d.c ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "purchase wooden scare edinburgh royal mile ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use tram explore zurich ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let help reserve table michelle-starred restaurant ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "russia , smiling stranger norm ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid using arm night unfamiliar neighborhood ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "hike lava field near mount eta ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "thailand us thai baht ( ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "bring reusable water bottle reduce plastic waste ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "visit geothermal wonder yellowstone national park ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "order pho street vendor hand ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "attend carnival parade trinidad tobacco ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "buy rug spice sock marrakech ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "hop river taxi bangkok ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "find boutique hotel near differ tower ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "italy , dinner usually start 8 pm ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "keep copy itinerary family member ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore fjord kayak new zealand ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "forget power adaptor different country ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover street art valparaíso , chile ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "_ _ place_0 _ _ empandias __place_1 _ _"
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join oktoberfest celebration munich ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "explore fashion outlet seoul myeongdong ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "rent bike explore amsterdam canal ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help plan ski trip swiss apps ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "malaysia , pointing index finger polite ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "learn emergency number destination ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "camp star share desert ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "hungary us hungarian format ( hu ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "wear layered clothing traveling across climate ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "see colorful home la boca buenos aire ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy warm bowl raven support ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "watch midnight sun marathon tramsø ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "find painted egg craft prague old town ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "let reserve seat glacier express switzerland ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "_ _ place_0 _ _ greeting often solve cheek kiss ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "greek : efcharistó mean thank ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "__place_0__ valuable inner zippered pouch ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore desert bloom namibia ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "philippine us philippine peso ( php ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "carry local currency market street vendor ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "stroll along bund shanghai night ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "_ _ place_0 _ _ pierogi _ _ place_1 _ _ cafe ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "join light show garden bay singapore ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "find local craft chang mai night bazaar ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use oyster card travel around london ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "arrange cultural workshop stay ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "nepal , common greet namaste ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "_ _ place_0 _ _ thank mean _ _ place_1 _ _ ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "leave drink unattended crowded place ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "__place_0__ flamingosus bolivia & # 39 ; salt flat ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "keep hotel address written local language ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "tour lavender field provence , france ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "taste grilled meat argentina parrilla ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "celebrate castillo day firework paris ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "__place_0__ embroidered house __place_1__"
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ride airport florida everglades ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help plan arctic cruise expedition ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "turkey , tea served small curved glass ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "wear flashy jewelry walking alone ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "explore limestone cave phone nha , vietnam ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "check visa requirement fly ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "walk charles bridge prague sunrise ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "enjoy fresh baguette cheese france ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "experience summer solstice stonehenge ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "visit floating market making delta ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "use public train reach mount fiji ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "help book scenic train ride norway ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "__place_0__ tipping usually % ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "carry travel insurance cover medical emergency ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "watch sea turtle nesting costa rica beach ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "keep bank notified international travel ."
+    },
+    {
+        "tag": "DESTINATION_INFO",
+        "sentence": "discover temple anchor wat dawn ."
+    },
+    {
+        "tag": "FOOD_RECOMMENDATION",
+        "sentence": "favor grilled fish beach cafe croatia ."
+    },
+    {
+        "tag": "EVENT_ALERT",
+        "sentence": "see colorful kite bali kite festival ."
+    },
+    {
+        "tag": "SHOPPING_SPOTS",
+        "sentence": "shop pal cooler ped , australia ."
+    },
+    {
+        "tag": "TRANSPORTATION_INFO",
+        "sentence": "ride trans-nigerian railway across russia ."
+    },
+    {
+        "tag": "BOOKING_HELP",
+        "sentence": "__place_0__ find eco-resorts rainforest escape ."
+    },
+    {
+        "tag": "CULTURAL_INSIGHT",
+        "sentence": "lao , touching someone head considered rude ."
+    },
+    {
+        "tag": "LOCAL_PHRASE",
+        "sentence": "german : dance schön mean thank much ."
+    },
+    {
+        "tag": "SAFETY_ADVICE",
+        "sentence": "avoid using secured public wi-fi ."
+    },
+    {
+        "tag": "NATURE_GUIDE",
+        "sentence": "discover giant baobab madagascar ."
+    },
+    {
+        "tag": "CURRENCY_INFO",
+        "sentence": "colombia us colombia peso ( cop ) ."
+    },
+    {
+        "tag": "TRAVEL_TIPS",
+        "sentence": "learn basic greeting connect local ."
+    }
+]
